@@ -31,7 +31,7 @@ $ tree
 │       │   ├── mapred-site.xml
 │       │   ├── run-wordcount.sh
 │       │   ├── start-hadoop.sh
-│       │   ├── start-ssh-serf.sh
+│       │   ├── start.sh
 │       │   ├── stop-hadoop.sh
 │       │   └── yarn-site.xml
 │       └── hbase
@@ -45,7 +45,7 @@ $ tree
 │       │   ├── core-site.xml
 │       │   ├── hdfs-site.xml
 │       │   ├── mapred-site.xml
-│       │   ├── start-ssh-serf.sh
+│       │   ├── start.sh
 │       │   └── yarn-site.xml
 │       └── hbase
 │           └── hbase-site.xml

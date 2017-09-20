@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Start ssh and serf..."
-/root/start-ssh-serf.sh
+/root/start.sh
 
 wait
 echo "Configure members..."
