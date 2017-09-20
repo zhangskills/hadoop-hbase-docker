@@ -4,10 +4,6 @@ echo "Start ssh and serf..."
 /root/start.sh
 
 wait
-echo "Configure members..."
-/root/configure-members.sh
-
-wait
 echo "Start Hadoop..."
 /root/start-hadoop.sh
 
